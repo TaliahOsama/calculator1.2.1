@@ -1,3 +1,5 @@
+package org.example;
+
 import io.qase.api.annotation.Step;
 
 public class Calculator {

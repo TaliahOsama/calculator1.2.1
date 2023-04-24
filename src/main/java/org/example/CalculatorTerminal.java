@@ -1,3 +1,7 @@
+package org.example;
+
+import org.example.Calculator;
+
 import java.util.Scanner;
 
 public class CalculatorTerminal {
